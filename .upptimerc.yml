@@ -16,7 +16,7 @@ sites:
   - name: Netsoc Cloud UI
     url: https://netsoc.cloud
   - name: Netsoc Cloud Authentication Services
-    url: https://keycloak.netsoc.cloud
+    url: https://keycloak.netsoc.co
   - name: Netsoc Cloud LXC Services
     url: https://whoami-lxc-thomas-container.netsoc.cloud
   - name: Netsoc Cloud VPS Services
