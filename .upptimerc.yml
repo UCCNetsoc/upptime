@@ -1,26 +1,41 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: uccnetsoc # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: netsoc.co
+    url: https://netsoc.co
+  - name: netsoc.cloud
+    url: https://netsoc.cloud
+  - name: wiki.netsoc.co
+    url: https://wiki.netsoc.co
+  - name: blog.netsoc.co
+    url: https://blog.netsoc.co
+  - name: Netsoc Cloud API
+    url: https://api.netsoc.cloud/docs
+  - name: Netsoc Cloud UI
+    url: https://netsoc.cloud
+  - name: Netsoc Cloud Authentication Services
+    url: https://keycloak.netsoc.cloud
+  - name: Netsoc Cloud LXC Services
+    url: https://whoami-lxc-thomas-container.netsoc.cloud
+  - name: Netsoc Cloud VPS Services
+    url: https://whoami-vps-thomas-vps.netsoc.cloud
+  - name: Student Media - Motley
+    url: https://motley.ie
+  - name: Student Media - Express
+    url: https://uccexpress.ie
+  - name: Student Media - The Rag
+    url: https://therag.ie
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status1.netsoc.co
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status
+  introTitle: "UCCNetsoc status page"
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
