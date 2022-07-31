@@ -35,7 +35,7 @@ status-website:
   # baseUrl: /your-repo-name
   name: Status
   introTitle: "UCCNetsoc status page"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO). No server required — just GitHub Actions, Issues, and Pages.
+  introMessage: Netsoc Status page, using [upptime](https://github.com/upptime/upptime), which uses GitHub Actions to generate uptime statistics and ping graphs.**Note** ping statistics are inflated due to running on GitHub runners.
   navbar:
     - title: Status
       href: /
