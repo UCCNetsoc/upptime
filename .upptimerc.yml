@@ -32,8 +32,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status1.netsoc.co
-  # for some reason not being bundled into gh-pages branch
-  themeUrl: https://raw.githubusercontent.com/UCCNetsoc/upptime/master/assets/netsoc.css
+  # for some reason not being bundled into gh-pages branch and won't work with raw github url
+  themeUrl: https://cdn.statically.io/gh/uccnetsoc/upptime/master/assets/netsoc.css
   name: Status
   introTitle: "Netsoc status page"
   introMessage: Netsoc Status page, using [upptime](https://github.com/upptime/upptime), which is run on GitHub Actions to generate uptime statistics and ping graphs. **Note** response times are inflated due to running on GitHub runners, and not a more natural environment.
