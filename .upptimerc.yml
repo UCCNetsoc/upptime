@@ -31,7 +31,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status1.netsoc.co
+  cname: status.netsoc.co
   # for some reason not being bundled into gh-pages branch and won't work with raw github url
   themeUrl: https://cdn.statically.io/gh/uccnetsoc/upptime/master/assets/netsoc.css
   name: Status
