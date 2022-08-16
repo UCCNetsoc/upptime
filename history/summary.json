@@ -58,18 +58,20 @@
     "url": "https://blog.netsoc.co",
     "icon": "https://favicons.githubusercontent.com/blog.netsoc.co",
     "slug": "blog-netsoc-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 627,
-    "timeWeek": 473,
-    "timeMonth": 466,
-    "timeYear": 466,
-    "dailyMinutesDown": {}
+    "time": 467,
+    "timeDay": 555,
+    "timeWeek": 474,
+    "timeMonth": 467,
+    "timeYear": 467,
+    "dailyMinutesDown": {
+      "2022-08-16": 0
+    }
   },
   {
     "name": "Netsoc Cloud API",
