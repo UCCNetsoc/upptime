@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/wiki.netsoc.co",
     "slug": "wiki-netsoc-co",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "91.39%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.79%",
+    "uptime": "97.94%",
+    "uptimeDay": "12.95%",
+    "uptimeWeek": "87.56%",
+    "uptimeMonth": "97.14%",
+    "uptimeYear": "97.94%",
     "time": 475,
     "timeDay": 0,
     "timeWeek": 607,
     "timeMonth": 475,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2022-09-11": 13,
+      "2022-09-11": 1142,
       "2022-09-10": 111
     }
   },
@@ -115,18 +115,20 @@
     "url": "https://keycloak.netsoc.co",
     "icon": "https://favicons.githubusercontent.com/keycloak.netsoc.co",
     "slug": "netsoc-cloud-authentication-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 279,
-    "timeWeek": 401,
-    "timeMonth": 367,
-    "timeYear": 427,
-    "dailyMinutesDown": {}
+    "time": 424,
+    "timeDay": 273,
+    "timeWeek": 384,
+    "timeMonth": 364,
+    "timeYear": 424,
+    "dailyMinutesDown": {
+      "2022-09-11": 0
+    }
   },
   {
     "name": "Netsoc Cloud LXC Services",
