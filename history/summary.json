@@ -79,19 +79,19 @@
     "url": "https://api.netsoc.cloud/docs",
     "icon": "https://favicons.githubusercontent.com/api.netsoc.cloud",
     "slug": "netsoc-cloud-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 311,
-    "timeWeek": 378,
-    "timeMonth": 390,
-    "timeYear": 398,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 396,
+    "timeDay": 305,
+    "timeWeek": 368,
+    "timeMonth": 387,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2022-09-18": 0
+      "2022-09-18": 7
     }
   },
   {
