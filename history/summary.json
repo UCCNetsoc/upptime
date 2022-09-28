@@ -81,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/api.netsoc.cloud",
     "slug": "netsoc-cloud-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 401,
     "timeDay": 536,
     "timeWeek": 433,
     "timeMonth": 413,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2022-09-28": 0
+      "2022-09-28": 14
     }
   },
   {
@@ -118,17 +118,17 @@
     "url": "https://keycloak.netsoc.co",
     "icon": "https://favicons.githubusercontent.com/keycloak.netsoc.co",
     "slug": "netsoc-cloud-authentication-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "93.32%",
-    "uptimeWeek": "99.05%",
+    "uptimeDay": "93.31%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.89%",
-    "time": 533,
-    "timeDay": 2261,
-    "timeWeek": 1227,
-    "timeMonth": 624,
-    "timeYear": 533,
+    "time": 530,
+    "timeDay": 1927,
+    "timeWeek": 1147,
+    "timeMonth": 614,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2022-09-28": 96
     }
