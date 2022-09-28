@@ -40,9 +40,9 @@
     "url": "https://wiki.netsoc.co",
     "icon": "https://favicons.githubusercontent.com/wiki.netsoc.co",
     "slug": "wiki-netsoc-co",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.12%",
     "uptimeYear": "98.52%",
@@ -52,6 +52,7 @@
     "timeMonth": 488,
     "timeYear": 471,
     "dailyMinutesDown": {
+      "2022-09-28": 0,
       "2022-09-11": 1149,
       "2022-09-10": 111
     }
@@ -115,18 +116,20 @@
     "url": "https://keycloak.netsoc.co",
     "icon": "https://favicons.githubusercontent.com/keycloak.netsoc.co",
     "slug": "netsoc-cloud-authentication-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 408,
-    "timeDay": 257,
-    "timeWeek": 351,
-    "timeMonth": 365,
-    "timeYear": 408,
-    "dailyMinutesDown": {}
+    "time": 446,
+    "timeDay": 1721,
+    "timeWeek": 705,
+    "timeMonth": 447,
+    "timeYear": 446,
+    "dailyMinutesDown": {
+      "2022-09-28": 0
+    }
   },
   {
     "name": "Netsoc Cloud LXC Services",
@@ -206,18 +209,16 @@
     "icon": "https://favicons.githubusercontent.com/therag.ie",
     "slug": "student-media-the-rag",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1250,
     "timeDay": 1125,
     "timeWeek": 1073,
     "timeMonth": 1213,
     "timeYear": 1250,
-    "dailyMinutesDown": {
-      "2022-09-28": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
