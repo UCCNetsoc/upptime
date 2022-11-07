@@ -4,11 +4,11 @@
     "url": "https://netsoc.co",
     "icon": "https://icons.duckduckgo.com/ip3/netsoc.co.ico",
     "slug": "netsoc-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "94.28%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "93.89%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.94%",
     "time": 622,
     "timeDay": 9225,
@@ -16,7 +16,7 @@
     "timeMonth": 995,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2022-11-07": 82
+      "2022-11-07": 88
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/netsoc.cloud.ico",
     "slug": "netsoc-cloud",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "93.95%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.93%",
+    "uptimeDay": "93.45%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.93%",
     "time": 358,
     "timeDay": 362,
     "timeWeek": 332,
     "timeMonth": 345,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2022-11-07": 87
+      "2022-11-07": 94
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.netsoc.co.ico",
     "slug": "wiki-netsoc-co",
     "status": "down",
-    "uptime": "99.04%",
-    "uptimeDay": "94.52%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.04%",
+    "uptime": "99.03%",
+    "uptimeDay": "94.02%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.03%",
     "time": 554,
     "timeDay": 5459,
     "timeWeek": 1674,
     "timeMonth": 768,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2022-11-07": 79,
+      "2022-11-07": 86,
       "2022-09-28": 33,
       "2022-09-11": 1149,
       "2022-09-10": 111
@@ -68,18 +68,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.netsoc.co.ico",
     "slug": "blog-netsoc-co",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "92.86%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.92%",
     "time": 616,
     "timeDay": 5527,
     "timeWeek": 2148,
     "timeMonth": 952,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2022-11-07": 103
+      "2022-11-07": 110
     }
   },
   {
@@ -89,9 +89,9 @@
     "slug": "netsoc-cloud-api",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "94.11%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "93.61%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.92%",
     "time": 394,
     "timeDay": 439,
@@ -99,7 +99,7 @@
     "timeMonth": 377,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2022-11-07": 85,
+      "2022-11-07": 92,
       "2022-09-28": 26
     }
   },
@@ -110,9 +110,9 @@
     "slug": "netsoc-cloud-ui",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "94.15%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "93.65%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.94%",
     "time": 103,
     "timeDay": 106,
@@ -120,7 +120,7 @@
     "timeMonth": 101,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2022-11-07": 84
+      "2022-11-07": 92
     }
   },
   {
@@ -130,9 +130,9 @@
     "slug": "netsoc-cloud-authentication-services",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "94.18%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "93.68%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.87%",
     "time": 469,
     "timeDay": 355,
@@ -140,7 +140,7 @@
     "timeMonth": 353,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2022-11-07": 84,
+      "2022-11-07": 91,
       "2022-09-28": 96
     }
   },
@@ -151,9 +151,9 @@
     "slug": "netsoc-cloud-lxc-services",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "94.22%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "93.72%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.94%",
     "time": 410,
     "timeDay": 401,
@@ -161,7 +161,7 @@
     "timeMonth": 377,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2022-11-07": 83
+      "2022-11-07": 90
     }
   },
   {
@@ -171,9 +171,9 @@
     "slug": "netsoc-cloud-vps-services",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "94.26%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "93.75%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.94%",
     "time": 377,
     "timeDay": 435,
@@ -181,7 +181,7 @@
     "timeMonth": 364,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2022-11-07": 83
+      "2022-11-07": 90
     }
   },
   {
@@ -191,9 +191,9 @@
     "slug": "student-media-motley",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.94%",
     "time": 1365,
     "timeDay": 1399,
@@ -201,7 +201,7 @@
     "timeMonth": 1369,
     "timeYear": 1365,
     "dailyMinutesDown": {
-      "2022-11-07": 82
+      "2022-11-07": 89
     }
   },
   {
@@ -211,9 +211,9 @@
     "slug": "student-media-express",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "94.40%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "93.90%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.94%",
     "time": 1074,
     "timeDay": 1119,
@@ -221,7 +221,7 @@
     "timeMonth": 967,
     "timeYear": 1074,
     "dailyMinutesDown": {
-      "2022-11-07": 81
+      "2022-11-07": 88
     }
   },
   {
