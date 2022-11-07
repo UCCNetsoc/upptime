@@ -4,19 +4,19 @@
     "url": "https://netsoc.co",
     "icon": "https://icons.duckduckgo.com/ip3/netsoc.co.ico",
     "slug": "netsoc-co",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "94.37%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "94.28%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.94%",
-    "time": 462,
-    "timeDay": 472,
-    "timeWeek": 429,
-    "timeMonth": 448,
-    "timeYear": 462,
+    "time": 622,
+    "timeDay": 9225,
+    "timeWeek": 2623,
+    "timeMonth": 995,
+    "timeYear": 622,
     "dailyMinutesDown": {
-      "2022-11-07": 81
+      "2022-11-07": 82
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "netsoc-cloud",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "94.41%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "93.95%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.94%",
     "time": 358,
     "timeDay": 362,
@@ -36,7 +36,7 @@
     "timeMonth": 345,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2022-11-07": 81
+      "2022-11-07": 87
     }
   },
   {
@@ -44,11 +44,11 @@
     "url": "https://wiki.netsoc.co",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.netsoc.co.ico",
     "slug": "wiki-netsoc-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "94.52%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.04%",
     "time": 554,
     "timeDay": 5459,
@@ -56,7 +56,7 @@
     "timeMonth": 768,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2022-11-07": 75,
+      "2022-11-07": 79,
       "2022-09-28": 33,
       "2022-09-11": 1149,
       "2022-09-10": 111
@@ -67,10 +67,10 @@
     "url": "https://blog.netsoc.co",
     "icon": "https://icons.duckduckgo.com/ip3/blog.netsoc.co.ico",
     "slug": "blog-netsoc-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "93.11%",
-    "uptimeWeek": "99.02%",
+    "uptimeDay": "92.86%",
+    "uptimeWeek": "98.98%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.93%",
     "time": 616,
@@ -79,7 +79,7 @@
     "timeMonth": 952,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2022-11-07": 99
+      "2022-11-07": 103
     }
   },
   {
@@ -88,18 +88,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.netsoc.cloud.ico",
     "slug": "netsoc-cloud-api",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.92%",
     "time": 394,
     "timeDay": 439,
     "timeWeek": 365,
     "timeMonth": 377,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2022-11-07": 78,
+      "2022-11-07": 85,
       "2022-09-28": 26
     }
   },
@@ -109,18 +109,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/netsoc.cloud.ico",
     "slug": "netsoc-cloud-ui",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "94.60%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "94.15%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.94%",
     "time": 103,
     "timeDay": 106,
     "timeWeek": 96,
     "timeMonth": 101,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2022-11-07": 78
+      "2022-11-07": 84
     }
   },
   {
@@ -129,18 +129,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.netsoc.co.ico",
     "slug": "netsoc-cloud-authentication-services",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "94.64%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.87%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.87%",
     "time": 469,
     "timeDay": 355,
     "timeWeek": 338,
     "timeMonth": 353,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2022-11-07": 77,
+      "2022-11-07": 84,
       "2022-09-28": 96
     }
   },
@@ -150,18 +150,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/whoami-lxc-thomas-container.netsoc.cloud.ico",
     "slug": "netsoc-cloud-lxc-services",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "94.67%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "94.22%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.94%",
     "time": 410,
     "timeDay": 401,
     "timeWeek": 360,
     "timeMonth": 377,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2022-11-07": 77
+      "2022-11-07": 83
     }
   },
   {
@@ -170,18 +170,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/whoami-vps-thomas-vps.netsoc.cloud.ico",
     "slug": "netsoc-cloud-vps-services",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "94.71%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "94.26%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.94%",
     "time": 377,
     "timeDay": 435,
     "timeWeek": 351,
     "timeMonth": 364,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2022-11-07": 76
+      "2022-11-07": 83
     }
   },
   {
@@ -190,18 +190,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/motley.ie.ico",
     "slug": "student-media-motley",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "94.77%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "94.31%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.94%",
     "time": 1365,
     "timeDay": 1399,
     "timeWeek": 1445,
     "timeMonth": 1369,
     "timeYear": 1365,
     "dailyMinutesDown": {
-      "2022-11-07": 75
+      "2022-11-07": 82
     }
   },
   {
@@ -210,18 +210,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/uccexpress.ie.ico",
     "slug": "student-media-express",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "94.85%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "94.40%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.94%",
     "time": 1074,
     "timeDay": 1119,
     "timeWeek": 890,
     "timeMonth": 967,
     "timeYear": 1074,
     "dailyMinutesDown": {
-      "2022-11-07": 74
+      "2022-11-07": 81
     }
   },
   {
