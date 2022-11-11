@@ -10,11 +10,11 @@
     "uptimeWeek": "98.56%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.90%",
-    "time": 814,
-    "timeDay": 529,
-    "timeWeek": 4897,
-    "timeMonth": 1660,
-    "timeYear": 814,
+    "time": 811,
+    "timeDay": 520,
+    "timeWeek": 4915,
+    "timeMonth": 1661,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2022-11-07": 144
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "98.57%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.90%",
-    "time": 547,
-    "timeDay": 373,
-    "timeWeek": 2744,
+    "time": 546,
+    "timeDay": 371,
+    "timeWeek": 2755,
     "timeMonth": 998,
-    "timeYear": 547,
+    "timeYear": 546,
     "dailyMinutesDown": {
       "2022-11-07": 144
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.netsoc.co.ico",
     "slug": "wiki-netsoc-co",
     "status": "up",
-    "uptime": "99.01%",
+    "uptime": "99.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.50%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "99.01%",
-    "time": 563,
-    "timeDay": 533,
-    "timeWeek": 1697,
-    "timeMonth": 797,
-    "timeYear": 563,
+    "uptimeYear": "99.02%",
+    "time": 562,
+    "timeDay": 513,
+    "timeWeek": 1717,
+    "timeMonth": 798,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2022-11-07": 152,
       "2022-09-28": 33,
@@ -73,11 +73,11 @@
     "uptimeWeek": "98.40%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.89%",
-    "time": 774,
-    "timeDay": 564,
-    "timeWeek": 3599,
+    "time": 772,
+    "timeDay": 530,
+    "timeWeek": 3613,
     "timeMonth": 1473,
-    "timeYear": 774,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2022-11-07": 161
     }
@@ -94,8 +94,8 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.90%",
     "time": 491,
-    "timeDay": 461,
-    "timeWeek": 1658,
+    "timeDay": 445,
+    "timeWeek": 1676,
     "timeMonth": 726,
     "timeYear": 491,
     "dailyMinutesDown": {
@@ -116,7 +116,7 @@
     "uptimeYear": "99.89%",
     "time": 113,
     "timeDay": 110,
-    "timeWeek": 235,
+    "timeWeek": 239,
     "timeMonth": 134,
     "timeYear": 113,
     "dailyMinutesDown": {
@@ -134,11 +134,11 @@
     "uptimeWeek": "98.57%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.84%",
-    "time": 611,
-    "timeDay": 406,
-    "timeWeek": 2336,
-    "timeMonth": 892,
-    "timeYear": 611,
+    "time": 610,
+    "timeDay": 426,
+    "timeWeek": 2345,
+    "timeMonth": 893,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2022-11-07": 144,
       "2022-09-28": 96
@@ -150,16 +150,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/whoami-lxc-thomas-container.netsoc.cloud.ico",
     "slug": "netsoc-cloud-lxc-services",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.62%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.90%",
-    "time": 502,
-    "timeDay": 416,
-    "timeWeek": 1573,
-    "timeMonth": 704,
-    "timeYear": 502,
+    "uptimeYear": "99.91%",
+    "time": 501,
+    "timeDay": 409,
+    "timeWeek": 1587,
+    "timeMonth": 705,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2022-11-07": 140
     }
@@ -175,11 +175,11 @@
     "uptimeWeek": "98.51%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.90%",
-    "time": 386,
-    "timeDay": 435,
-    "timeWeek": 493,
-    "timeMonth": 396,
-    "timeYear": 386,
+    "time": 387,
+    "timeDay": 489,
+    "timeWeek": 522,
+    "timeMonth": 399,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2022-11-07": 150
     }
@@ -195,11 +195,11 @@
     "uptimeWeek": "98.52%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.90%",
-    "time": 1456,
-    "timeDay": 1478,
-    "timeWeek": 2709,
-    "timeMonth": 1689,
-    "timeYear": 1456,
+    "time": 1458,
+    "timeDay": 1599,
+    "timeWeek": 2749,
+    "timeMonth": 1688,
+    "timeYear": 1458,
     "dailyMinutesDown": {
       "2022-11-07": 150
     }
@@ -215,11 +215,11 @@
     "uptimeWeek": "98.67%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.91%",
-    "time": 1172,
-    "timeDay": 1063,
-    "timeWeek": 2224,
-    "timeMonth": 1293,
-    "timeYear": 1172,
+    "time": 1170,
+    "timeDay": 935,
+    "timeWeek": 2249,
+    "timeMonth": 1290,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2022-11-07": 134
     }
@@ -235,11 +235,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1224,
-    "timeDay": 1113,
-    "timeWeek": 1078,
-    "timeMonth": 1169,
-    "timeYear": 1224,
+    "time": 1226,
+    "timeDay": 1402,
+    "timeWeek": 1113,
+    "timeMonth": 1181,
+    "timeYear": 1226,
     "dailyMinutesDown": {}
   }
 ]
