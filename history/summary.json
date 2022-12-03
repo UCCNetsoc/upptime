@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.92%",
-    "time": 767,
-    "timeDay": 610,
-    "timeWeek": 560,
-    "timeMonth": 1749,
-    "timeYear": 767,
+    "time": 766,
+    "timeDay": 605,
+    "timeWeek": 575,
+    "timeMonth": 1756,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2022-11-07": 144
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.92%",
-    "time": 526,
-    "timeDay": 780,
-    "timeWeek": 472,
-    "timeMonth": 1066,
-    "timeYear": 526,
+    "time": 525,
+    "timeDay": 460,
+    "timeWeek": 482,
+    "timeMonth": 1071,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2022-11-07": 144
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.19%",
     "time": 557,
-    "timeDay": 601,
-    "timeWeek": 563,
-    "timeMonth": 850,
+    "timeDay": 631,
+    "timeWeek": 578,
+    "timeMonth": 859,
     "timeYear": 557,
     "dailyMinutesDown": {
       "2022-11-07": 152,
@@ -74,9 +74,9 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.91%",
     "time": 746,
-    "timeDay": 746,
-    "timeWeek": 665,
-    "timeMonth": 1562,
+    "timeDay": 758,
+    "timeWeek": 686,
+    "timeMonth": 1573,
     "timeYear": 746,
     "dailyMinutesDown": {
       "2022-11-07": 161
@@ -94,9 +94,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.92%",
     "time": 482,
-    "timeDay": 473,
-    "timeWeek": 459,
-    "timeMonth": 775,
+    "timeDay": 471,
+    "timeWeek": 464,
+    "timeMonth": 779,
     "timeYear": 482,
     "dailyMinutesDown": {
       "2022-11-07": 125,
@@ -114,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.91%",
-    "time": 114,
-    "timeDay": 146,
-    "timeWeek": 129,
-    "timeMonth": 149,
-    "timeYear": 114,
+    "time": 115,
+    "timeDay": 145,
+    "timeWeek": 134,
+    "timeMonth": 151,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2022-11-07": 157
     }
@@ -135,9 +135,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.87%",
     "time": 579,
-    "timeDay": 458,
-    "timeWeek": 426,
-    "timeMonth": 944,
+    "timeDay": 472,
+    "timeWeek": 437,
+    "timeMonth": 949,
     "timeYear": 579,
     "dailyMinutesDown": {
       "2022-11-07": 144,
@@ -156,9 +156,9 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.92%",
     "time": 489,
-    "timeDay": 487,
-    "timeWeek": 453,
-    "timeMonth": 743,
+    "timeDay": 478,
+    "timeWeek": 462,
+    "timeMonth": 748,
     "timeYear": 489,
     "dailyMinutesDown": {
       "2022-11-07": 140
@@ -175,11 +175,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.92%",
-    "time": 392,
-    "timeDay": 483,
-    "timeWeek": 451,
-    "timeMonth": 439,
-    "timeYear": 392,
+    "time": 393,
+    "timeDay": 462,
+    "timeWeek": 457,
+    "timeMonth": 444,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2022-11-07": 150
     }
@@ -196,9 +196,9 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.92%",
     "time": 1456,
-    "timeDay": 1565,
-    "timeWeek": 1531,
-    "timeMonth": 1774,
+    "timeDay": 1387,
+    "timeWeek": 1508,
+    "timeMonth": 1777,
     "timeYear": 1456,
     "dailyMinutesDown": {
       "2022-11-07": 150
@@ -210,15 +210,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/uccexpress.ie.ico",
     "slug": "student-media-express",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 1147,
-    "timeDay": 1443,
-    "timeWeek": 1107,
-    "timeMonth": 1350,
+    "timeDay": 1099,
+    "timeWeek": 1164,
+    "timeMonth": 1361,
     "timeYear": 1147,
     "dailyMinutesDown": {
       "2022-11-07": 134
@@ -235,11 +235,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1227,
-    "timeDay": 1419,
-    "timeWeek": 1380,
-    "timeMonth": 1209,
-    "timeYear": 1227,
+    "time": 1230,
+    "timeDay": 1543,
+    "timeWeek": 1417,
+    "timeMonth": 1214,
+    "timeYear": 1230,
     "dailyMinutesDown": {}
   }
 ]
