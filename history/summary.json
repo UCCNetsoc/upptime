@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 696,
-    "timeDay": 499,
-    "timeWeek": 486,
-    "timeMonth": 494,
+    "timeDay": 611,
+    "timeWeek": 501,
+    "timeMonth": 497,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2022-11-07": 144
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 488,
-    "timeDay": 385,
-    "timeWeek": 367,
-    "timeMonth": 376,
-    "timeYear": 488,
+    "time": 487,
+    "timeDay": 459,
+    "timeWeek": 382,
+    "timeMonth": 378,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2022-11-07": 144
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 538,
-    "timeDay": 507,
-    "timeWeek": 483,
-    "timeMonth": 486,
+    "timeDay": 615,
+    "timeWeek": 500,
+    "timeMonth": 490,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2022-11-07": 152,
@@ -74,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 707,
-    "timeDay": 609,
-    "timeWeek": 587,
-    "timeMonth": 589,
+    "timeDay": 745,
+    "timeWeek": 606,
+    "timeMonth": 594,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2022-11-07": 161
@@ -94,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 462,
-    "timeDay": 460,
-    "timeWeek": 404,
-    "timeMonth": 403,
+    "timeDay": 479,
+    "timeWeek": 414,
+    "timeMonth": 406,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2022-11-07": 125,
@@ -115,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 113,
-    "timeDay": 109,
-    "timeWeek": 110,
-    "timeMonth": 111,
+    "timeDay": 146,
+    "timeWeek": 115,
+    "timeMonth": 112,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2022-11-07": 157
@@ -134,11 +134,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 530,
-    "timeDay": 386,
-    "timeWeek": 373,
-    "timeMonth": 379,
-    "timeYear": 530,
+    "time": 529,
+    "timeDay": 462,
+    "timeWeek": 386,
+    "timeMonth": 381,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2022-11-07": 144,
       "2022-09-28": 96
@@ -156,9 +156,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 466,
-    "timeDay": 436,
-    "timeWeek": 392,
-    "timeMonth": 400,
+    "timeDay": 494,
+    "timeWeek": 403,
+    "timeMonth": 402,
     "timeYear": 466,
     "dailyMinutesDown": {
       "2022-11-07": 140
@@ -170,15 +170,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/whoami-vps-thomas-vps.netsoc.cloud.ico",
     "slug": "netsoc-cloud-vps-services",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.68%",
     "time": 413,
-    "timeDay": 469,
-    "timeWeek": 433,
-    "timeMonth": 409,
+    "timeDay": 465,
+    "timeWeek": 444,
+    "timeMonth": 412,
     "timeYear": 413,
     "dailyMinutesDown": {
       "2022-12-10": 645,
@@ -197,9 +197,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1411,
-    "timeDay": 1237,
-    "timeWeek": 1309,
-    "timeMonth": 1266,
+    "timeDay": 1461,
+    "timeWeek": 1323,
+    "timeMonth": 1273,
     "timeYear": 1411,
     "dailyMinutesDown": {
       "2022-11-07": 150
@@ -216,11 +216,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 1113,
-    "timeDay": 920,
-    "timeWeek": 999,
-    "timeMonth": 1041,
-    "timeYear": 1113,
+    "time": 1112,
+    "timeDay": 1061,
+    "timeWeek": 996,
+    "timeMonth": 1046,
+    "timeYear": 1112,
     "dailyMinutesDown": {
       "2022-11-07": 134
     }
@@ -236,11 +236,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1259,
-    "timeDay": 1174,
-    "timeWeek": 1267,
-    "timeMonth": 1268,
-    "timeYear": 1259,
+    "time": 1281,
+    "timeDay": 5375,
+    "timeWeek": 1840,
+    "timeMonth": 1397,
+    "timeYear": 1281,
     "dailyMinutesDown": {}
   }
 ]
