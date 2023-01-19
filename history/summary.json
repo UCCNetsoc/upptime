@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 696,
-    "timeDay": 611,
-    "timeWeek": 501,
-    "timeMonth": 497,
-    "timeYear": 696,
+    "time": 695,
+    "timeDay": 510,
+    "timeWeek": 485,
+    "timeMonth": 486,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2022-11-07": 144
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 487,
-    "timeDay": 459,
-    "timeWeek": 382,
-    "timeMonth": 378,
+    "timeDay": 383,
+    "timeWeek": 370,
+    "timeMonth": 376,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2022-11-07": 144
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.netsoc.co.ico",
     "slug": "wiki-netsoc-co",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 538,
-    "timeDay": 615,
-    "timeWeek": 500,
-    "timeMonth": 490,
+    "timeDay": 494,
+    "timeWeek": 483,
+    "timeMonth": 486,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2022-11-07": 152,
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 707,
-    "timeDay": 745,
-    "timeWeek": 606,
-    "timeMonth": 594,
-    "timeYear": 707,
+    "time": 706,
+    "timeDay": 592,
+    "timeWeek": 584,
+    "timeMonth": 588,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2022-11-07": 161
     }
@@ -94,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 462,
-    "timeDay": 479,
-    "timeWeek": 414,
-    "timeMonth": 406,
+    "timeDay": 422,
+    "timeWeek": 407,
+    "timeMonth": 404,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2022-11-07": 125,
@@ -115,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 113,
-    "timeDay": 146,
-    "timeWeek": 115,
-    "timeMonth": 112,
+    "timeDay": 106,
+    "timeWeek": 109,
+    "timeMonth": 111,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2022-11-07": 157
@@ -135,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 529,
-    "timeDay": 462,
-    "timeWeek": 386,
-    "timeMonth": 381,
+    "timeDay": 386,
+    "timeWeek": 372,
+    "timeMonth": 378,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2022-11-07": 144,
@@ -156,8 +156,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 466,
-    "timeDay": 494,
-    "timeWeek": 403,
+    "timeDay": 464,
+    "timeWeek": 399,
     "timeMonth": 402,
     "timeYear": 466,
     "dailyMinutesDown": {
@@ -176,9 +176,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 413,
-    "timeDay": 465,
-    "timeWeek": 444,
-    "timeMonth": 412,
+    "timeDay": 386,
+    "timeWeek": 431,
+    "timeMonth": 409,
     "timeYear": 413,
     "dailyMinutesDown": {
       "2022-12-10": 645,
@@ -196,11 +196,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1411,
-    "timeDay": 1461,
-    "timeWeek": 1323,
-    "timeMonth": 1273,
-    "timeYear": 1411,
+    "time": 1413,
+    "timeDay": 1817,
+    "timeWeek": 1370,
+    "timeMonth": 1280,
+    "timeYear": 1413,
     "dailyMinutesDown": {
       "2022-11-07": 150
     }
@@ -216,11 +216,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 1112,
-    "timeDay": 1061,
-    "timeWeek": 996,
-    "timeMonth": 1046,
-    "timeYear": 1112,
+    "time": 1113,
+    "timeDay": 1175,
+    "timeWeek": 989,
+    "timeMonth": 1038,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2022-11-07": 134
     }
@@ -236,11 +236,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1281,
-    "timeDay": 5375,
-    "timeWeek": 1840,
-    "timeMonth": 1397,
-    "timeYear": 1281,
+    "time": 1283,
+    "timeDay": 1564,
+    "timeWeek": 1839,
+    "timeMonth": 1398,
+    "timeYear": 1283,
     "dailyMinutesDown": {}
   }
 ]
