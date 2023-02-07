@@ -48,7 +48,7 @@
     "slug": "wiki-netsoc-co",
     "status": "up",
     "uptime": "98.41%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "2.45%",
     "uptimeWeek": "71.10%",
     "uptimeMonth": "93.31%",
     "uptimeYear": "98.41%",
@@ -138,9 +138,9 @@
     "slug": "netsoc-cloud-authentication-services",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 513,
     "timeDay": 465,
@@ -148,7 +148,6 @@
     "timeMonth": 372,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2023-02-06": 12,
       "2022-11-07": 144,
       "2022-09-28": 96
     }
