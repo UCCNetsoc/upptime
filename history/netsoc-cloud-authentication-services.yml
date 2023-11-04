@@ -1,7 +1,7 @@
 url: https://keycloak.netsoc.co
-status: down
-code: 502
-responseTime: 259
-lastUpdated: 2023-11-03T23:03:01.650Z
+status: up
+code: 200
+responseTime: 827
+lastUpdated: 2023-11-04T22:44:20.051Z
 startTime: 2022-07-31T11:07:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
