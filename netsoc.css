@@ -1,0 +1,18 @@
+:root {
+  --body-background-color: #303030;
+  --body-text-color: #ededed;
+  --card-background-color: #292929;
+  --card-border-color: #383838;
+  --up-border-left-color: #33af33;
+  --down-background-color: #6b1020;
+  --degraded-border-left-color: #f7b731;
+  --nav-background-color: #272727;
+  --nav-border-bottom-color: #3a3a3a;
+}
+
+@media screen and (max-width: 500px) {
+  .graph {
+    mask-image: linear-gradient(to right, transparent, black) !important;
+    -webkit-mask-image: linear-gradient(to right, black, transparent) !important;
+  }
+}
