@@ -23,8 +23,6 @@ sites:
     url: https://whoami-vps-thomas-vps.netsoc.cloud
   - name: Student Media - Motley
     url: https://motley.ie
-  - name: Student Media - Express
-    url: https://uccexpress.ie
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
