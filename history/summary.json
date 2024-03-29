@@ -314,7 +314,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/whoami-vps-thomas-vps.netsoc.cloud.ico",
     "slug": "netsoc-cloud-vps-services",
     "status": "up",
-    "uptime": "52.24%",
+    "uptime": "52.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -608,8 +608,7 @@
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
-      "2023-03-31": 1440,
-      "2023-03-30": 1440
+      "2023-03-31": 1440
     }
   },
   {
@@ -619,9 +618,9 @@
     "slug": "student-media-motley",
     "status": "up",
     "uptime": "92.77%",
-    "uptimeDay": "88.54%",
-    "uptimeWeek": "94.18%",
-    "uptimeMonth": "98.39%",
+    "uptimeDay": "88.99%",
+    "uptimeWeek": "94.35%",
+    "uptimeMonth": "98.40%",
     "uptimeYear": "90.19%",
     "time": 893,
     "timeDay": 553,
@@ -629,7 +628,7 @@
     "timeMonth": 488,
     "timeYear": 739,
     "dailyMinutesDown": {
-      "2024-03-28": 165,
+      "2024-03-28": 159,
       "2024-03-27": 84,
       "2024-03-26": 70,
       "2024-03-25": 74,
