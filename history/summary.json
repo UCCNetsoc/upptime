@@ -13,7 +13,7 @@
     "time": 469,
     "timeDay": 357,
     "timeWeek": 391,
-    "timeMonth": 442,
+    "timeMonth": 439,
     "timeYear": 454,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 417,
     "timeDay": 307,
     "timeWeek": 879,
-    "timeMonth": 881,
+    "timeMonth": 897,
     "timeYear": 429,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 464,
     "timeDay": 349,
     "timeWeek": 393,
-    "timeMonth": 439,
+    "timeMonth": 436,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2024-02-15": 1235,
@@ -155,7 +155,7 @@
     "time": 776,
     "timeDay": 352,
     "timeWeek": 386,
-    "timeMonth": 447,
+    "timeMonth": 443,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2024-01-23": 1164,
@@ -214,7 +214,7 @@
     "time": 402,
     "timeDay": 334,
     "timeWeek": 352,
-    "timeMonth": 381,
+    "timeMonth": 380,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2024-01-25": 792,
@@ -236,7 +236,7 @@
     "time": 113,
     "timeDay": 80,
     "timeWeek": 192,
-    "timeMonth": 186,
+    "timeMonth": 190,
     "timeYear": 114,
     "dailyMinutesDown": {}
   },
@@ -254,7 +254,7 @@
     "time": 393,
     "timeDay": 293,
     "timeWeek": 314,
-    "timeMonth": 350,
+    "timeMonth": 347,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2024-01-23": 1237,
@@ -278,7 +278,7 @@
     "time": 508,
     "timeDay": 358,
     "timeWeek": 404,
-    "timeMonth": 386,
+    "timeMonth": 383,
     "timeYear": 539,
     "dailyMinutesDown": {
       "2024-02-15": 1319,
@@ -322,7 +322,7 @@
     "time": 2596,
     "timeDay": 330,
     "timeWeek": 354,
-    "timeMonth": 372,
+    "timeMonth": 370,
     "timeYear": 3260,
     "dailyMinutesDown": {
       "2024-02-16": 663,
@@ -607,8 +607,7 @@
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
-      "2023-04-01": 1440,
-      "2023-03-31": 1440
+      "2023-04-01": 1440
     }
   },
   {
@@ -618,17 +617,18 @@
     "slug": "student-media-motley",
     "status": "down",
     "uptime": "92.78%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "94.94%",
-    "uptimeMonth": "98.29%",
+    "uptimeDay": "95.68%",
+    "uptimeWeek": "94.82%",
+    "uptimeMonth": "98.26%",
     "uptimeYear": "90.18%",
     "time": 835,
     "timeDay": 624,
-    "timeWeek": 507,
+    "timeWeek": 508,
     "timeMonth": 500,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2024-03-29": 50,
+      "2024-03-30": 10,
+      "2024-03-29": 52,
       "2024-03-28": 159,
       "2024-03-27": 84,
       "2024-03-26": 70,
