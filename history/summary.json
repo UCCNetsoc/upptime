@@ -324,7 +324,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "24.05%",
+    "uptimeYear": "24.06%",
     "time": 2595,
     "timeDay": 302,
     "timeWeek": 343,
@@ -606,8 +606,7 @@
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
-      "2023-04-08": 1440,
-      "2023-04-07": 1440
+      "2023-04-08": 1440
     }
   },
   {
@@ -617,17 +616,17 @@
     "slug": "student-media-motley",
     "status": "up",
     "uptime": "92.78%",
-    "uptimeDay": "84.58%",
-    "uptimeWeek": "92.67%",
-    "uptimeMonth": "96.60%",
+    "uptimeDay": "85.71%",
+    "uptimeWeek": "92.85%",
+    "uptimeMonth": "96.61%",
     "uptimeYear": "90.04%",
     "time": 823,
-    "timeDay": 488,
+    "timeDay": 487,
     "timeWeek": 849,
     "timeMonth": 642,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2024-04-05": 222,
+      "2024-04-05": 216,
       "2024-04-04": 76,
       "2024-04-03": 155,
       "2024-04-02": 46,
