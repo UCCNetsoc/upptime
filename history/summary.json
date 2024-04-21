@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.netsoc.co.ico",
     "slug": "wiki-netsoc-co",
     "status": "down",
-    "uptime": "84.94%",
+    "uptime": "84.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.21%",
-    "uptimeYear": "76.64%",
+    "uptimeMonth": "64.10%",
+    "uptimeYear": "76.63%",
     "time": 463,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 454,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2024-04-20": 1405,
+      "2024-04-21": 12,
+      "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
@@ -326,7 +327,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.16%",
+    "uptimeYear": "28.17%",
     "time": 2590,
     "timeDay": 324,
     "timeWeek": 415,
@@ -593,8 +594,7 @@
       "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
-      "2023-04-23": 1440,
-      "2023-04-22": 1440
+      "2023-04-23": 1440
     }
   },
   {
@@ -603,18 +603,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/motley.ie.ico",
     "slug": "student-media-motley",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "96.67%",
-    "uptimeWeek": "89.78%",
-    "uptimeMonth": "93.90%",
+    "uptime": "99.70%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "90.02%",
+    "uptimeMonth": "93.86%",
     "uptimeYear": "99.49%",
     "time": 785,
-    "timeDay": 1430,
+    "timeDay": 1293,
     "timeWeek": 1038,
     "timeMonth": 690,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2024-04-20": 48,
+      "2024-04-20": 42,
       "2024-04-19": 95,
       "2024-04-18": 111,
       "2024-04-17": 98,
@@ -638,7 +638,7 @@
       "2024-03-30": 29,
       "2024-03-29": 52,
       "2024-03-28": 159,
-      "2024-03-27": 57
+      "2024-03-27": 84
     }
   }
 ]
