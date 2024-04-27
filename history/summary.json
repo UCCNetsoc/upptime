@@ -44,15 +44,16 @@
     "uptime": "84.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.44%",
-    "uptimeYear": "74.99%",
+    "uptimeMonth": "44.38%",
+    "uptimeYear": "74.98%",
     "time": 463,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 456,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2024-04-26": 1423,
+      "2024-04-27": 11,
+      "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -332,7 +333,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "29.80%",
+    "uptimeYear": "29.81%",
     "time": 2589,
     "timeDay": 278,
     "timeWeek": 344,
@@ -593,8 +594,7 @@
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440
+      "2023-04-29": 1440
     }
   },
   {
@@ -603,18 +603,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/motley.ie.ico",
     "slug": "student-media-motley",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "94.19%",
-    "uptimeWeek": "93.84%",
-    "uptimeMonth": "93.85%",
-    "uptimeYear": "99.49%",
+    "uptime": "99.70%",
+    "uptimeDay": "94.62%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "93.81%",
+    "uptimeYear": "99.48%",
     "time": 806,
     "timeDay": 977,
-    "timeWeek": 823,
+    "timeWeek": 798,
     "timeMonth": 740,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2024-04-26": 84,
+      "2024-04-26": 78,
       "2024-04-25": 79,
       "2024-04-24": 146,
       "2024-04-23": 6,
@@ -637,7 +637,8 @@
       "2024-04-06": 82,
       "2024-04-05": 216,
       "2024-04-04": 76,
-      "2024-04-03": 155
+      "2024-04-03": 155,
+      "2024-04-02": 26
     }
   }
 ]
