@@ -13,7 +13,7 @@
     "time": 465,
     "timeDay": 0,
     "timeWeek": 369,
-    "timeMonth": 438,
+    "timeMonth": 442,
     "timeYear": 449,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 423,
     "timeDay": 0,
     "timeWeek": 308,
-    "timeMonth": 498,
+    "timeMonth": 505,
     "timeYear": 438,
     "dailyMinutesDown": {}
   },
@@ -44,7 +44,7 @@
     "uptime": "83.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.38%",
+    "uptimeMonth": "34.67%",
     "uptimeYear": "73.89%",
     "time": 463,
     "timeDay": 0,
@@ -52,7 +52,8 @@
     "timeMonth": 476,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2024-04-30": 1434,
+      "2024-05-01": 12,
+      "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -172,7 +173,7 @@
     "time": 765,
     "timeDay": 0,
     "timeWeek": 366,
-    "timeMonth": 433,
+    "timeMonth": 436,
     "timeYear": 825,
     "dailyMinutesDown": {
       "2024-01-23": 1164,
@@ -231,7 +232,7 @@
     "time": 401,
     "timeDay": 0,
     "timeWeek": 362,
-    "timeMonth": 383,
+    "timeMonth": 387,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2024-01-25": 792,
@@ -253,7 +254,7 @@
     "time": 114,
     "timeDay": 0,
     "timeWeek": 81,
-    "timeMonth": 127,
+    "timeMonth": 129,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -271,7 +272,7 @@
     "time": 391,
     "timeDay": 0,
     "timeWeek": 290,
-    "timeMonth": 345,
+    "timeMonth": 347,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2024-04-03": 171,
@@ -296,7 +297,7 @@
     "time": 506,
     "timeDay": 0,
     "timeWeek": 336,
-    "timeMonth": 372,
+    "timeMonth": 375,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2024-02-15": 1319,
@@ -336,11 +337,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.90%",
+    "uptimeYear": "30.91%",
     "time": 2588,
     "timeDay": 0,
     "timeWeek": 337,
-    "timeMonth": 391,
+    "timeMonth": 395,
     "timeYear": 2961,
     "dailyMinutesDown": {
       "2024-02-16": 663,
@@ -593,8 +594,7 @@
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
-      "2023-05-03": 1440,
-      "2023-05-02": 1440
+      "2023-05-03": 1440
     }
   },
   {
@@ -604,17 +604,17 @@
     "slug": "student-media-motley",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "97.29%",
-    "uptimeWeek": "93.63%",
-    "uptimeMonth": "94.05%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "94.03%",
     "uptimeYear": "99.50%",
     "time": 778,
     "timeDay": 613,
     "timeWeek": 785,
-    "timeMonth": 757,
+    "timeMonth": 769,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2024-04-30": 39,
+      "2024-04-30": 33,
       "2024-04-29": 50,
       "2024-04-28": 96,
       "2024-04-27": 148,
@@ -639,7 +639,7 @@
       "2024-04-08": 87,
       "2024-04-07": 39,
       "2024-04-06": 82,
-      "2024-04-05": 32
+      "2024-04-05": 47
     }
   }
 ]
