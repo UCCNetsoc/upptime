@@ -44,7 +44,7 @@
     "uptime": "82.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.22%",
+    "uptimeMonth": "24.17%",
     "uptimeYear": "72.27%",
     "time": 463,
     "timeDay": 0,
@@ -52,7 +52,7 @@
     "timeMonth": 512,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2024-05-06": 1400,
+      "2024-05-06": 1421,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
@@ -600,15 +600,15 @@
     "url": "https://motley.ie",
     "icon": "https://icons.duckduckgo.com/ip3/motley.ie.ico",
     "slug": "student-media-motley",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "97.38%",
+    "uptimeDay": "97.35%",
     "uptimeWeek": "96.98%",
-    "uptimeMonth": "93.99%",
+    "uptimeMonth": "94.02%",
     "uptimeYear": "99.50%",
-    "time": 743,
+    "time": 742,
     "timeDay": 525,
-    "timeWeek": 527,
+    "timeWeek": 526,
     "timeMonth": 684,
     "timeYear": 714,
     "dailyMinutesDown": {
@@ -639,8 +639,7 @@
       "2024-04-12": 76,
       "2024-04-11": 102,
       "2024-04-10": 60,
-      "2024-04-09": 101,
-      "2024-04-08": 4
+      "2024-04-09": 89
     }
   }
 ]
