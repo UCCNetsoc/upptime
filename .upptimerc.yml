@@ -21,8 +21,6 @@ sites:
     url: https://whoami-lxc-thomas-container.netsoc.cloud
   - name: Netsoc Cloud VPS Services
     url: https://whoami-vps-thomas-vps.netsoc.cloud
-  - name: Student Media - Motley
-    url: https://motley.ie
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
