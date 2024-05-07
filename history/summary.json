@@ -44,7 +44,7 @@
     "uptime": "82.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.13%",
+    "uptimeMonth": "24.10%",
     "uptimeYear": "72.27%",
     "time": 463,
     "timeDay": 0,
@@ -52,7 +52,7 @@
     "timeMonth": 512,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2024-05-07": 0,
+      "2024-05-07": 11,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
@@ -601,17 +601,17 @@
     "slug": "student-media-motley",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "96.92%",
-    "uptimeMonth": "94.01%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "93.99%",
     "uptimeYear": "99.50%",
     "time": 741,
-    "timeDay": 518,
+    "timeDay": 523,
     "timeWeek": 525,
     "timeMonth": 683,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2024-05-06": 44,
+      "2024-05-06": 38,
       "2024-05-05": 45,
       "2024-05-04": 39,
       "2024-05-03": 64,
@@ -638,7 +638,8 @@
       "2024-04-12": 76,
       "2024-04-11": 102,
       "2024-04-10": 60,
-      "2024-04-09": 89
+      "2024-04-09": 101,
+      "2024-04-08": 4
     }
   }
 ]
