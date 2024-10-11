@@ -4,19 +4,19 @@
     "url": "https://netsoc.co",
     "icon": "https://icons.duckduckgo.com/ip3/netsoc.co.ico",
     "slug": "netsoc-co",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 458,
-    "timeDay": 378,
-    "timeWeek": 406,
-    "timeMonth": 532,
+    "timeDay": 377,
+    "timeWeek": 402,
+    "timeMonth": 527,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2024-10-11": 2
+      "2024-10-11": 8
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2024-10-11": 1400,
+      "2024-10-11": 1408,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -401,7 +401,7 @@
     "timeMonth": 3232,
     "timeYear": 976,
     "dailyMinutesDown": {
-      "2024-10-11": 1400,
+      "2024-10-11": 1408,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
