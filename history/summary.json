@@ -6,18 +6,16 @@
     "slug": "netsoc-co",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 458,
     "timeDay": 377,
     "timeWeek": 402,
     "timeMonth": 527,
     "timeYear": 462,
-    "dailyMinutesDown": {
-      "2024-10-11": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "netsoc.cloud",
@@ -43,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.netsoc.co.ico",
     "slug": "wiki-netsoc-co",
     "status": "down",
-    "uptime": "73.45%",
+    "uptime": "73.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -54,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2024-10-11": 1408,
+      "2024-10-12": 13,
+      "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -255,8 +254,7 @@
       "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
-      "2023-10-14": 1440,
-      "2023-10-13": 1440
+      "2023-10-14": 1440
     }
   },
   {
@@ -394,14 +392,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "78.80%",
+    "uptimeYear": "78.79%",
     "time": 817,
     "timeDay": 3403,
     "timeWeek": 3205,
     "timeMonth": 3232,
     "timeYear": 976,
     "dailyMinutesDown": {
-      "2024-10-11": 1408,
+      "2024-10-12": 13,
+      "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
