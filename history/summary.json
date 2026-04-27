@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/netsoc.co.ico",
     "slug": "netsoc-co",
     "status": "down",
-    "uptime": "87.69%",
+    "uptime": "87.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2026-04-26": 32,
+      "2026-04-27": 32,
+      "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -179,8 +180,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   },
   {
@@ -189,18 +189,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/netsoc.cloud.ico",
     "slug": "netsoc-cloud",
     "status": "down",
-    "uptime": "63.62%",
+    "uptime": "63.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 382,
+    "time": 384,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 32,
+      "2026-04-27": 32,
+      "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -563,8 +564,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   },
   {
@@ -573,7 +573,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.netsoc.co.ico",
     "slug": "wiki-netsoc-co",
     "status": "down",
-    "uptime": "54.05%",
+    "uptime": "54.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -584,7 +584,8 @@
     "timeMonth": 0,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2026-04-26": 32,
+      "2026-04-27": 32,
+      "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -819,8 +820,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   },
   {
@@ -829,18 +829,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.netsoc.co.ico",
     "slug": "blog-netsoc-co",
     "status": "down",
-    "uptime": "60.84%",
+    "uptime": "60.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 684,
+    "time": 693,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 32,
+      "2026-04-27": 32,
+      "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -1203,8 +1204,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   },
   {
@@ -1213,18 +1213,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.netsoc.cloud.ico",
     "slug": "netsoc-cloud-api",
     "status": "down",
-    "uptime": "63.47%",
+    "uptime": "63.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 468,
+    "time": 472,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 32,
+      "2026-04-27": 32,
+      "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -1587,8 +1588,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   },
   {
@@ -1597,18 +1597,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/netsoc.cloud.ico",
     "slug": "netsoc-cloud-ui",
     "status": "down",
-    "uptime": "63.62%",
+    "uptime": "63.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 108,
+    "time": 109,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 32,
+      "2026-04-27": 33,
+      "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -1971,8 +1972,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   },
   {
@@ -1981,18 +1981,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.netsoc.co.ico",
     "slug": "netsoc-cloud-authentication-services",
     "status": "down",
-    "uptime": "63.40%",
+    "uptime": "63.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 341,
+    "time": 343,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 32,
+      "2026-04-27": 33,
+      "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -2355,8 +2356,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   },
   {
@@ -2365,18 +2365,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/whoami-lxc-thomas-container.netsoc.cloud.ico",
     "slug": "netsoc-cloud-lxc-services",
     "status": "down",
-    "uptime": "53.46%",
+    "uptime": "53.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2550,
+    "time": 2525,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 32,
+      "2026-04-27": 33,
+      "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -2739,8 +2740,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   },
   {
@@ -2749,18 +2749,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/whoami-vps-thomas-vps.netsoc.cloud.ico",
     "slug": "netsoc-cloud-vps-services",
     "status": "down",
-    "uptime": "42.38%",
+    "uptime": "42.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 579,
+    "time": 586,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 32,
+      "2026-04-27": 33,
+      "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -3123,8 +3124,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   }
 ]
