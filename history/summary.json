@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/netsoc.co.ico",
     "slug": "netsoc-co",
     "status": "down",
-    "uptime": "84.71%",
+    "uptime": "84.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.75%",
+    "uptimeYear": "63.48%",
     "time": 442,
     "timeDay": 0,
     "timeWeek": 0,
@@ -112,7 +112,8 @@
       "2026-03-07": 31,
       "2026-03-09": 42,
       "2026-03-10": 62,
-      "2026-06-13": 49,
+      "2026-06-14": 48,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -215,7 +216,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/netsoc.cloud.ico",
     "slug": "netsoc-cloud",
     "status": "down",
-    "uptime": "61.46%",
+    "uptime": "61.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -226,7 +227,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 49,
+      "2026-06-14": 48,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -589,8 +591,7 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1440
+      "2025-06-15": 1440
     }
   },
   {
@@ -599,16 +600,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.netsoc.co.ico",
     "slug": "wiki-netsoc-co",
     "status": "down",
-    "uptime": "52.21%",
+    "uptime": "52.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.54%",
+    "uptimeYear": "34.27%",
     "time": 423,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 429,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2025-07-09": 18,
       "2025-08-25": 229,
@@ -625,7 +626,8 @@
       "2025-10-12": 23,
       "2025-10-15": 18,
       "2025-10-17": 773,
-      "2026-06-13": 49,
+      "2026-06-14": 48,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -872,7 +874,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.netsoc.co.ico",
     "slug": "blog-netsoc-co",
     "status": "down",
-    "uptime": "58.77%",
+    "uptime": "58.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -883,7 +885,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 49,
+      "2026-06-14": 48,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -1246,8 +1249,7 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1440
+      "2025-06-15": 1440
     }
   },
   {
@@ -1256,7 +1258,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.netsoc.cloud.ico",
     "slug": "netsoc-cloud-api",
     "status": "down",
-    "uptime": "61.31%",
+    "uptime": "61.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1267,7 +1269,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 49,
+      "2026-06-14": 48,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -1630,8 +1633,7 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1440
+      "2025-06-15": 1440
     }
   },
   {
@@ -1640,7 +1642,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/netsoc.cloud.ico",
     "slug": "netsoc-cloud-ui",
     "status": "down",
-    "uptime": "61.46%",
+    "uptime": "61.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1651,7 +1653,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 49,
+      "2026-06-14": 49,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -2014,8 +2017,7 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1440
+      "2025-06-15": 1440
     }
   },
   {
@@ -2024,7 +2026,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.netsoc.co.ico",
     "slug": "netsoc-cloud-authentication-services",
     "status": "down",
-    "uptime": "61.24%",
+    "uptime": "61.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2035,7 +2037,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 49,
+      "2026-06-14": 49,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -2398,8 +2401,7 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1440
+      "2025-06-15": 1440
     }
   },
   {
@@ -2408,7 +2410,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/whoami-lxc-thomas-container.netsoc.cloud.ico",
     "slug": "netsoc-cloud-lxc-services",
     "status": "down",
-    "uptime": "51.64%",
+    "uptime": "51.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2419,7 +2421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 49,
+      "2026-06-14": 49,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -2782,8 +2785,7 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1440
+      "2025-06-15": 1440
     }
   },
   {
@@ -2792,7 +2794,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/whoami-vps-thomas-vps.netsoc.cloud.ico",
     "slug": "netsoc-cloud-vps-services",
     "status": "down",
-    "uptime": "40.94%",
+    "uptime": "40.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2803,7 +2805,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 49,
+      "2026-06-14": 49,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -3166,8 +3169,7 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1440
+      "2025-06-15": 1440
     }
   }
 ]
